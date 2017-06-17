@@ -7,7 +7,8 @@
     "example": "examples"
   },
   "scripts": {
-    "web": "ecstatic examples/"
+    "web": "ecstatic examples/",
+    "web_dev": "ecstatic examples_dev/"
   },
   "author": "",
   "license": "ISC",
