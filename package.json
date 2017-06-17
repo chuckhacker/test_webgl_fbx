@@ -1,0 +1,17 @@
+{
+  "name": "test_webgl_fbx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "web": "ecstatic examples/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ecstatic": "^2.2.1"
+  }
+}
